@@ -1,7 +1,8 @@
-## Put Deep Learning to work: 
-# Accelerate Deep Learning through Amazon SageMaker and ML Services
+### Toronto Machine Learning Conference (TMLC) Workshop
 
-#### Toronto Machine Learning Conference (TMLC) Workshop
+# Put Deep Learning to work: 
+## Accelerate Deep Learning through Amazon SageMaker and ML Services
+
 #### Date: November 16, 2020
 #### Time: 2:00 PM to 4:30 PM (EST)
 
