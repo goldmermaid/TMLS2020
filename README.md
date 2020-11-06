@@ -8,7 +8,7 @@ Time: 2:00 PM EST to 4:30 PM EST
 
 
 ## Abstract
-Deploying deep learning (DL) projects are becoming increasingly more pervasive at enterprises and startups alike. At Amazon, Machine Learning University (MLU)-trained engineers are taking DL to every aspect of Amazon’s businesses, beyond just Amazon Go, Alexa, and Robotics.
+Deploying deep learning (DL) projects are becoming increasingly more pervasive at enterprises and startups alike. At Amazon, [Machine Learning University (MLU)](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw) trained engineers are taking DL to every aspect of Amazon’s businesses, beyond just Amazon Go, Alexa, and Robotics.
 In this tutorial, Wenming Ye (Amazon Web Services) and Rachel Hu (Amazon Web Services) offer a practical next step in DL learning with instructions, and hands-on labs using the latest Nvidia GPUs and AWS Inferentia. You will explore the current trends powering AI/DL adoption, powerful new GPU/AWS Inferentia accelerator instances, distributed training and inference optimization in neural networks.
 
 
@@ -63,7 +63,7 @@ Amazon SageMaker is a fully-managed service that enables developers and data sci
 1. Click `Additional Configuration`, and set "Volume size in GB" to be "50 GB".
     <img src="./img/volume.png" width="400">
 
-1. Scroll down and click `Git repositories`. Click the drop-down menue and select `Clone a Public Git....`. Then, enter: "**https://github.com/goldmermaid/TMLCPKDD2020**" in the text box.
+1. Scroll down and click `Git repositories`. Click the drop-down menue and select `Clone a Public Git....`. Then, enter: "**https://github.com/goldmermaid/TMLC2020**" in the text box.
     <img src="./img/gitrepo.png" width="400">
 1. Finally, click on the orange `Create notebook instance` Button. Now the notebook instance launching request is sent and the instance's status is show `Pending`. It should be launched in 2-5 minutes.
 
@@ -81,9 +81,7 @@ Now go ahead and finetune your BERT model on SQuAD dataset!
 (If you are interested in our Research reward program, please see the link below. Or contact us directly. https://aws.amazon.com/aws-ml-research-awards/)
 
 
+
+
 ## License
 The contents of this workshop are licensed under the Apache 2.0 License.
-
-```{.python .input}
-
-```
