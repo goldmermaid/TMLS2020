@@ -3,13 +3,14 @@
 # Put Deep Learning to work: 
 ## Accelerate Deep Learning through Amazon SageMaker and ML Services
 
-Date: November 16
-Time: 2:00 PM EST to 4:30 PM EST
+Date: November 16, 2020
+
+Time: 2:00 PM to 4:30 PM (EST)
 
 
 ## Abstract
 Deploying deep learning (DL) projects are becoming increasingly more pervasive at enterprises and startups alike. At Amazon, [Machine Learning University (MLU)](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw) trained engineers are taking DL to every aspect of Amazon’s businesses, beyond just Amazon Go, Alexa, and Robotics.
-In this tutorial, Wenming Ye (Amazon Web Services) and Rachel Hu (Amazon Web Services) offer a practical next step in DL learning with instructions, and hands-on labs using the latest Nvidia GPUs and AWS Inferentia. You will explore the current trends powering AI/DL adoption, powerful new GPU/AWS Inferentia accelerator instances, distributed training and inference optimization in neural networks.
+In this tutorial, [Wenming Ye](https://www.linkedin.com/in/wenming-ye-0170b11/) (Amazon Web Services) and [Rachel Hu](https://www.linkedin.com/in/rachelsonghu/) (Amazon Web Services) offer a practical next step in DL learning with instructions, and hands-on labs using the latest Nvidia GPUs and AWS Inferentia. You will explore the current trends powering AI/DL adoption, powerful new GPU/AWS Inferentia accelerator instances, distributed training and inference optimization in neural networks.
 
 
 
