@@ -29,9 +29,9 @@ In this tutorial, [Wenming Ye](https://www.linkedin.com/in/wenming-ye-0170b11/) 
 |   EST Time    |  Title    |  Speaker | Slides/Notebooks    |
 | ---- | ---- | ---- | ---- |
 | 2:00 PM | **Welcome and Logistics** |  Rachel Hu; Wenming Ye | N/A |
-| 2:10 PM | **Amazon AI and SageMaker Overview** | Wenming Ye | [slides](https://github.com/goldmermaid/TMLC2020/blob/master/tmlc2020.pdf) |
+| 2:10 PM | **Amazon AI and SageMaker Overview** | Wenming Ye | [slides](https://github.com/goldmermaid/TMLC2020/blob/main/tmlc2020.pdf) |
 | 2:40 PM | **BERT and Transformer** | Rachel Hu  | (same as above)  |
-| 3:20 PM | **Lab: Fine Tuning BERT Model on Q&A dataset** | Rachel Hu  |  [jupyter](https://github.com/goldmermaid/TMLC2020/blob/master/bert_finetune/bert_pytorch_finetuning.ipynb) |
+| 3:20 PM | **Lab: Fine Tuning BERT Model on Q&A dataset** | Rachel Hu  |  [jupyter](https://github.com/goldmermaid/TMLC2020/blob/main/bert_finetune/bert_pytorch_finetuning.ipynb) |
 |  | (10 min break during model training)  |
 | 4:00 PM | **Lab: Model Deployment** | Rachel Hu  | (same as above) |
 | 4:30 PM | **Conclusion** |  Rachel Hu; Wenming Ye | N/A  |
