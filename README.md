@@ -5,6 +5,7 @@
 
 #### Date: November 16, 2020
 #### Time: 2:00 PM to 4:30 PM (EST)
+#### Event Workshop Instance: Will be provided onsite
 
 
 ## Abstract
@@ -29,7 +30,7 @@ In this tutorial, [Wenming Ye](https://www.linkedin.com/in/wenming-ye-0170b11/) 
 |   EST Time    |  Title    |  Speaker | Slides/Notebooks    |
 | ---- | ---- | ---- | ---- |
 | 2:00 PM | **Welcome and Logistics** |  Rachel Hu; Wenming Ye | N/A |
-| 2:10 PM | **Amazon AI and SageMaker Overview** | Wenming Ye | [slides](https://github.com/goldmermaid/TMLC2020/blob/master/tmlc2020.pdf) |
+| 2:10 PM | **Amazon AI and SageMaker Overview** | Wenming Ye | [slides](https://github.com/goldmermaid/TMLS2020/blob/master/tmls2020.pdf) |
 | 2:40 PM | **BERT and Transformer** | Rachel Hu  | (same as above)  |
 | 3:20 PM | **Lab: Fine Tuning BERT Model on Q&A dataset** | Rachel Hu  |  [jupyter](https://github.com/goldmermaid/TMLC2020/blob/master/bert_finetune/bert_pytorch_finetuning.ipynb) |
 |  | (10 min break during model training)  |
@@ -44,7 +45,7 @@ You will need a Laptop. We recommend that you have an extra Screen if available.
 
 ## Slides
 
-Download [Here](./tmlc2020.pdf). 
+Download [Here](./tmls2020.pdf). 
 
 ## AWS Account
 AWS account is not required for this Lab, you will be provided with a Hash URL to access a pre-provisioned AWS environment and Amazon Sagemaker.
