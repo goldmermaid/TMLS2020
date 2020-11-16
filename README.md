@@ -65,7 +65,7 @@ Amazon SageMaker is a fully-managed service that enables developers and data sci
     <img src="./img/zz.png" width="150">
     
 1. Pick a notebook instance name in the first text box.
-1. For notebook instance type, select "**ml.p3.2xlarge**".
+1. For notebook instance type, select "**ml.c5.4xlarge**".
 1. Click `Additional Configuration`, and set "Volume size in GB" to be "50 GB".
 
     <img src="./img/volume.png" width="400">
