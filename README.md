@@ -32,7 +32,7 @@ In this tutorial, [Wenming Ye](https://www.linkedin.com/in/wenming-ye-0170b11/) 
 | 2:00 PM | **Welcome and Logistics** |  Rachel Hu; Wenming Ye | N/A |
 | 2:10 PM | **Amazon AI and SageMaker Overview** | Wenming Ye | [slides](https://github.com/goldmermaid/TMLS2020/blob/master/tmls2020.pdf) |
 | 2:40 PM | **BERT and Transformer** | Rachel Hu  | (same as above)  |
-| 3:20 PM | **Lab: Fine Tuning BERT Model on Q&A dataset** | Rachel Hu  |  [jupyter](https://github.com/goldmermaid/TMLC2020/blob/master/bert_finetune/bert_pytorch_finetuning.ipynb) |
+| 3:20 PM | **Lab: Fine Tuning BERT Model on Q&A dataset** | Rachel Hu  |  [jupyter](https://github.com/goldmermaid/TMLS2020/blob/master/bert_finetune/bert_pytorch_finetuning.ipynb) |
 |  | (10 min break during model training)  |
 | 4:00 PM | **Lab: Model Deployment** | Rachel Hu  | (same as above) |
 | 4:30 PM | **Conclusion** |  Rachel Hu; Wenming Ye | N/A  |
@@ -70,7 +70,7 @@ Amazon SageMaker is a fully-managed service that enables developers and data sci
 
     <img src="./img/volume.png" width="400">
 
-1. Scroll down and click `Git repositories`. Click the drop-down menue and select `Clone a Public Git....`. Then, enter: "**https://github.com/goldmermaid/TMLC2020**" in the text box.
+1. Scroll down and click `Git repositories`. Click the drop-down menue and select `Clone a Public Git....`. Then, enter: "**https://github.com/goldmermaid/TMLS2020**" in the text box.
 
     <img src="./img/gitrepo.png" width="400">
     
@@ -82,7 +82,7 @@ Once the instance's status turns Green `In Service`:
     <img src="./img/zzzz.png" width="600">
     
     
-1. In the directory `bert_finetuning`, open Jupyter notebook "**bert_pytorch_finetuning.ipynb**".
+1. In the directory `bert_finetuning`, open Jupyter notebook "**bert_pytorch_finetuning-qa.ipynb**".
 
 
 
