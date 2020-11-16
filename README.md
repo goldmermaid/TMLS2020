@@ -54,7 +54,7 @@ Amazon SageMaker is a fully-managed service that enables developers and data sci
 
 
 ## Live Lab Instructions:
-1. Go to Events engine website (will be given during live event), on team dashboard, click on AWS Console. If you are using your own account, skip to step 3.
+1. Go to [Event Engine website](https://eventbox.dev?code=TLMS20), on team dashboard, click on AWS Console. If you are using your own account, skip to step 3.
 
 1. Now click on `Open AWS Console`. Find, and click on `Amazon SageMaker` service link on the main page.
 
