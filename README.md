@@ -92,7 +92,20 @@ Now go ahead and finetune your BERT model on SQuAD dataset!
 (If you are interested in our Research reward program, please see the link below. Or contact us directly. https://aws.amazon.com/aws-ml-research-awards/)
 
 
+## Workshop Tips
 
+- Delete your endpoint (via above serving Jupyter notebook) after your model finetuning or if you no longer needed for serving:
+
+```python
+bert_end.delete_endpoint()
+```
+
+- If you would like to download your code or other modifications from Sagemaker, you can zip the `TMLS2020` folder into a zip file and then click `Download` from Sagemaker. To zip the folder, our a terminal through Sagemaker and enter following commands:
+
+```console
+!rm bert_base.pt      # remove the bert base model we downloaded.
+zip -r TMLS2020.ZIP TMLS2020/      # zip the whole folder
+```
 
 ## License
 The contents of this workshop are licensed under the Apache 2.0 License.
