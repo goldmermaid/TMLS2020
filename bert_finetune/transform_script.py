@@ -1641,14 +1641,14 @@ def model_fn(model_dir):
     model = BertForQuestionAnswering(config)
     print(subprocess.getoutput('ls /opt/ml'))
     print(subprocess.getoutput('ls /opt/ml/model'))
-    print(subprocess.getoutput('find bert_base_qa.pt'))
+    print(subprocess.getoutput('find bert_base.pt'))
     try:
-        model.load_state_dict(torch.load(os.path.join(model_dir,'bert_base_qa.pt'), map_location='cpu')["model"])
+        model.load_state_dict(torch.load(os.path.join(model_dir,'bert_base.pt'), map_location='cpu')["model"])
     except:
         try:
-            model.load_state_dict(torch.load('/opt/ml/model/opt/ml/model/bert_base_qa.pt', map_location='cpu')["model"])
+            model.load_state_dict(torch.load('/opt/ml/model/opt/ml/model/bert_base.pt', map_location='cpu')["model"])
         except:
-            os.system('wget https://api.ngc.nvidia.com/v2/models/nvidia/bert_base_pyt_amp_ckpt_squad_qa1_1/versions/1/files/bert_base_qa.pt')
-            model.load_state_dict(torch.load('bert_base_qa.pt', map_location='cpu')["model"])
+            os.system('wget https://api.ngc.nvidia.com/v2/models/nvidia/bert_base_pyt_amp_ckpt_squad_qa1_1/versions/1/files/bert_base.pt')
+            model.load_state_dict(torch.load('bert_base.pt', map_location='cpu')["model"])
     return model
 
